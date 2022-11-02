@@ -1,6 +1,6 @@
 body{
-    background: #333;
-    color:  #bbb;
+    background:rgba(235, 207, 235, 0.74) ;
+    color:  rgb(187, 187, 187);
     text-align: center;
     padding-top: 50px;
 }
@@ -22,4 +22,8 @@ body{
   width: auto;
   height: 400px !important; 
   max-height: 700px;
+}
+
+#boton_adoptame{
+    background-color: burlywood;
 }
